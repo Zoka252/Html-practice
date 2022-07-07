@@ -1,0 +1,6 @@
+git init
+git remote and origin [Kpirati ssh]
+git add .
+git.commit -m "Poruka"
+git push -u origin master [sacuvati na github]
+
